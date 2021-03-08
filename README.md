@@ -4,10 +4,10 @@ This is an app for educational purpose only. This application is made using Spri
 ****NOTE****
 
 Folders are as follows :
-pl4y-game-service : Main game service (port 8080, change in .src/java/resources/application.prop)
-pl4y-game-catlogue-demo : Main game service (port 8081, change in .src/java/resources/application.prop)
-pl4y-game-reviews : Main game service (port 8085, change in .src/java/resources/application.prop)
-pl4y-web-app: React App [*NEEDS ALL OF THE ABOVE RUNNNG TO DISPLAY DATA*]
+*** pl4y-game-service : Main game service (port 8080, change in .src/java/resources/application.prop)
+*** pl4y-game-catlogue-demo : Main game service (port 8081, change in .src/java/resources/application.prop)
+*** pl4y-game-reviews : Main game service (port 8085, change in .src/java/resources/application.prop)
+*** pl4y-web-app: React App [*NEEDS ALL OF THE ABOVE RUNNNG TO DISPLAY DATA*]
 
 **IMPORTANT IF YOU WANT TO INSTALL AND USE**
 * You will need postgresql installed on your system. Please check the name of the database from .src/java/resources/application.yml in pl4y-game-catalogue, pl4y-game-service, pl4y-game-reviews (each). The default name is 'games'
